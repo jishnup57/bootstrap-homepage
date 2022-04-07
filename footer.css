@@ -1,0 +1,60 @@
+.footer-section{
+    margin-top: 60px;
+    display: flex;
+}
+.foot-logo{
+    margin-top: 20px;
+    margin-left: 110px;
+    width: 25%;
+}
+.logo-header{
+    display: flex;
+}
+.footer-logo-code{
+    color: #495057;
+    font-size: 40px;
+}
+.footer-logo-text{
+    margin-left: 10px;
+    margin-top: 5px;
+    color: #495057;
+    font-size: 20px;
+}
+
+.link-container{
+    display: flex;
+    padding: 24px 0;
+    max-width: 1440px;
+    margin: 0 auto;
+    flex-direction: column;
+}
+h3{
+
+    color:#495057;
+    margin-top: 4px;
+    font-weight: 100;
+    cursor: pointer;
+}
+
+
+h3:hover{
+    color: rgb(29, 17, 199);
+}
+.ft3{
+    font-size: 14px;
+    letter-spacing: 1px;
+    color:#495057;
+    margin-top: 6px;
+}
+.ft4{
+    font-size: 14px;
+    letter-spacing: 1px;
+    color:#495057;
+    margin-top: 4px;
+}
+.ft5{
+    font-size: 14px;
+    letter-spacing: 1px;
+    color:#495057;
+    margin-top: 4px;
+}
